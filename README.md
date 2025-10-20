@@ -1,8 +1,3 @@
-Perfect 👍 — here’s a **clean, professional README.md** for your **BMI Calculator Android App**, customized for your repo
-👉 [https://github.com/Saree-tech/BMI-Calculator](https://github.com/Saree-tech/BMI-Calculator)
-
----
-
 ## 🧮 BMI Calculator
 
 A simple and user-friendly Android app built with **Java** and **XML** that helps users calculate their **Body Mass Index (BMI)** quickly and accurately.
@@ -89,14 +84,3 @@ Then open the project in **Android Studio** and run it on an emulator or real de
 🔗 [GitHub Profile](https://github.com/Saree-tech)
 
 ---
-
-### 📄 License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
-
----
-
-Would you like me to:
-
-* Format it with **badges** (e.g., Android, Java, License)?
-* Or keep it plain and simple (as above) for your initial commit?
