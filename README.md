@@ -15,17 +15,6 @@ The app supports both **metric** and **imperial** units for height and weight, p
 
 ---
 
-### 📱 Screenshots
-
-*(You can add screenshots later — for example:)*
-
-```
-/screenshots/home_screen.png
-/screenshots/result_screen.png
-```
-
----
-
 ### ⚙️ Tech Stack
 
 * **Language:** Java
